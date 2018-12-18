@@ -1,0 +1,25 @@
+*{box-sizing: border-box;}
+
+
+#time{
+	color: white;
+	font-size: 30px;
+	font-family: Snell Roundhand, cursive;
+	margin-left: 169px;
+
+}
+#container{
+	height: 500px;
+	width:500px;
+	background-image: url(https://media.giphy.com/media/Ic6bfJWo0KCsg/source.gif);
+	background-repeat: no-repeat;
+
+}
+
+
+body {
+	background-color: black;
+	display: flex;
+    justify-content: center;
+}
+
